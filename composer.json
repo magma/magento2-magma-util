@@ -2,7 +2,7 @@
   "name": "magma/magento2-magma-util",
   "description": "A Magento 2 module with standard Magma utility functions",
   "type": "magento2-module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Magma Consulting"
