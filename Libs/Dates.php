@@ -1,5 +1,5 @@
 <?php
-namespace \Magma\Util\Libs;
+namespace Magma\Util\Libs;
 
 class Dates
 {
